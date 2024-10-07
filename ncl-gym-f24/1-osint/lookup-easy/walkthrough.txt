@@ -1,0 +1,16 @@
+Methodology
+	Simple OSINT question, simply just look up. Ensure same info from multiple sources, read carefully, etc.
+	
+Questions
+	What type of DNS record holds the DNSSEC public signing key?
+
+	What type of DNS record is used to map hostnames to IPv6 addresses?
+
+	What type of DNS record is used to delegate a DNS zone?
+
+Answers
+	DNSKEY Record
+	
+	DNS AAAA Record
+	
+	NS Record

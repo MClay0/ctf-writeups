@@ -1,0 +1,18 @@
+Description
+    Conduct open source intelligence data collection about cityinthe.cloud. Answer the following questions as they relate to the cityinthe.cloud domain.
+
+Methodology
+    - whois cityinthe.cloud returns data, can grep for specific data
+Questions
+    1. Who is the registar of the domain?
+    2. On what day was this domain first registered?
+    3. What is this domain's registry domain ID?
+    4. What is the Top-Level Domain (TLD) of this domain?
+    5. What organization manages the TLD used by cityinthe.cloud?
+
+Answers 
+    1. Dynadot
+    2. 2016-02-16
+    3. D15CD1AC4DEB54207A5048A69B9FC0558-ARI
+    4. cloud
+    5. Aruba PEC SpA

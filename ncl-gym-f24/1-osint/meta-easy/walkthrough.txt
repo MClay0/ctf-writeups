@@ -1,0 +1,30 @@
+Methodology
+	Using the file <file_path> command meta data can be extracted
+	stat <file_path> also gives extra data
+	exiftool <file_path> provides the most detailed data
+			
+Questions
+	1. When was the image created? Round down to the nearest minute
+
+	2. What are the dimensions of the image? (ex: 800x600)
+
+	3. What is the make of the camera that took the picture?
+
+	4. What is the model of the camera that took the picture?
+
+	5. What is the exposure time for the picture? (ex: 1/200)
+
+	6. What are the GPS coordinates where the was the picture taken? (Any standard format is acceptable)
+	
+Answers
+	1. 2024-10-06 12:22:00
+	
+	2. 1024 x 768
+	
+	3. Apple
+	
+	4. Iphone 5
+	
+	5. 1/640
+	
+	6. 39 deg 52' 30.00" N, 20 deg 0' 36.00" E

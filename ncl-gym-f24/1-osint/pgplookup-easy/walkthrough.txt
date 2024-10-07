@@ -1,0 +1,15 @@
+Description
+    Individuals use PGP to securely encrypt their emails, can you find out more about the following PGP keys?
+
+Methodology
+    using curl we can get the file conating the public key from a key server and pipe it into gpg to get the info
+    also available on many public key servers
+Questions
+    1. What is the key fingerprint for security@cpanel.net?
+    2. What email address is associated with the key fingerprint 7A39A56B73D1E097D57435CFCDE2DE1DCB2077F2?
+    3. On what date does the above key expire (in UTC)?
+
+Answers
+    1. B6709B4CC6F42077F69841919521BEDCABD94DDF
+    2. hx@liber8tion.cityinthe.cloud
+    3. 2050-12-26

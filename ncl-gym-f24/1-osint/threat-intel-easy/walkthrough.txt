@@ -1,0 +1,17 @@
+Methodlogies
+    - Basic OSINT question. Follow good research practices. Multiple sources, read carefully, etc.
+
+Questions
+    1. What is the CVE of the original POODLE attack?
+    2. What version of VSFTPD contained the smiley face backdoor?
+    3. What was the first 1.0.1 version of OpenSSL that was NOT vulnerable to heartbleed?
+    4. What was the original RFC number that described Telnet?
+    5. How large (in bytes) was the SQL Slammer worm?
+    6. Complete the sentence: "Samy is my..."
+Answers
+    1. CVE-2014-3566
+    2. 2.3.4
+    3. 1.0.1g
+    4. RFC 15
+    5. 376 bytes
+    6. Samy is my hero.
