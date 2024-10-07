@@ -1,0 +1,13 @@
+Description
+    Our analysts have intercepted an encoded message. See if you can decode it.
+Methodology
+    Spaces, slashes, dots, and lines typically indicate morse code
+Questions
+    1. - .... . / ... . -.-. .-. . - / 
+    --- ..-. / --. . - - .. -. --. / 
+    .- .... . .- -.. / .. ... / --. . 
+    - - .. -. --. / ... - .- .-. - . -.. 
+    / ... -.- -.-- / -.. -.- ...- -... / 
+    ----. ---.. .---- -....
+Answers
+    1. THE SECRET OF GETTING AHEAD IS GETTING STARTED SKY DKVB 9816

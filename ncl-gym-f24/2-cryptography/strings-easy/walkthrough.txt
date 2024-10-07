@@ -1,0 +1,13 @@
+Description
+    The hackers have hidden a message in this image. Find out what it is.
+
+    We are given a file Steg1.jpg
+
+    Appears to be a picture of a pile of leaves
+Methodology
+    using strings <filename> we can extract hidden strings from the image
+    strings Steg1.jpg | grep SKY reveals the hidden flag
+Questions
+    1. What is the hidden flag in the image? (35 pts)
+Answers
+    1. SKY-TVJI-2063

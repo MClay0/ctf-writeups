@@ -1,0 +1,18 @@
+Description
+    Our analysts have obtained several artifacts from a message that was encrypted with RSA. 
+    We need you to decrypt the message and figure out what the hackers are up to.
+
+    Given
+        n = 1079
+        e = 43
+        c = 996 894 379 631 894 82 379 852 631 677 677 194 893
+Methodology
+    Question tell us that the message uses RSA encryption. Simply uses online decoder with given values
+Questions
+    1. What is the value of p (the smaller prime)?
+    2. What is the value of q (the larger prime)?
+    3. What is the plaintext of the encrypted message? (25 pts)
+Answers
+    1. 13
+    2. 83
+    3. SKY-KRYG-5530

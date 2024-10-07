@@ -1,0 +1,8 @@
+Description
+    Our analysts have obtained password dumps storing hacker passwords. See if you can crack them.
+Methodology
+    An atbash cipher is a cipher that replaces A with Z, B with Y, etc.
+Questions
+    1. hzuvob lyerlfh xzev
+Answers
+    1. safely obvious cave
