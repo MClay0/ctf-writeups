@@ -1,0 +1,16 @@
+Description
+    Solve the following questions about the Cyber Skyline SSL certificate.
+
+    Note: if you see references to "BitDefender" in the process of solving this challenge, 
+    that means your BitDefender software is intercepting your SSL/TLS connection and will produce incorrect results.
+
+Methodology
+    All answers can be found in the certificate details section of chrome
+Questions
+    1. Who is the issuer for Cyber Skyline's SSL certificate?
+    2. How many bits long is the SSL key?
+    3. How many certificates are in the chain?
+Answers
+    1. Sectigo Limited
+    2. 2048
+    3. 3
