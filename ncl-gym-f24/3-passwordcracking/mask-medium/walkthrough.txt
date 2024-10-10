@@ -1,0 +1,23 @@
+Description
+    Our analysts have obtained password dumps storing hacker passwords. 
+    After obtaining a few plaintext passwords, it appears that they are all in the format: SKY-HQNT- followed by 4 digits. 
+    Can you crack them?
+
+Methodology
+    The fact that we know the format of the passwords is a good indicator we can use a mask attack
+    hashcat -m 0 -a 3 hashes.txt SKY-HQNT-?d?d?d?d
+    brute force attack
+    md5 hash
+    mask specifying starting string and 4 digit end
+Questions
+    1. 71b816fe0b7b763d889ecc227eab400a
+    2. 674291170dffcf620bda2a604a6820ea
+    3. 06f03267f31077d2c4b5c728472070ae
+    4. d866f4b3b34b598375149fb7661113ab
+    5. d9053951a8d1c15254b46ec9fc974a6b
+Answers
+    1. SKY-HQNT-8765 
+    2. SKY-HQNT-7659 
+    3. SKY-HQNT-6598 
+    4. SKY-HQNT-5981   
+    5. SKY-HQNT-9816  
