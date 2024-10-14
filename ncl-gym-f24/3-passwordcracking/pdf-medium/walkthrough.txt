@@ -1,0 +1,9 @@
+Description
+    We have captured an encrypted pdf from a hacker's FTP server. Decrypt it and find out what you can.
+Methodology
+    john the ripper or pdfcrack can be used for cracking pdfs
+    pdf2john converts pdf to a hash crackable by john
+Questions
+    1. What is the password used to encrypt the pdf? (25 pts)
+Answers
+    1. 
